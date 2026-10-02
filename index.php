@@ -17,10 +17,10 @@
         <li><a href="Exer07.php">Exercice 7 : Boucles for et boucles imbriquées</a></li>
         <li><a href="Exer08.php">Exercice 8 : Contrôle des boucles (while, do-while, continue, break)</a></li>
         <li><a href="Exer09.php">Exercice 9 : Tableaux associatifs et foreach</a></li>
-        <li><a href="Exer10_get.html">Exercice 10 : Formulaire GET</a></li>
-        <li><a href="Exer10_post.html">Exercice 10 : Formulaire POST</a></li>
-        <li><a href="Exer10_get.php">Exercice 10 : Formulaire GET</a></li>
-        <li><a href="Exer10_post.php">Exercice 10 : Formulaire POST</a></li>
+        <li><a href="Exer10/Exer10_get.html">Exercice 10 : Formulaire GET</a></li>
+        <li><a href="Exer10/Exer10_post.html">Exercice 10 : Formulaire POST</a></li>
+        <li><a href="Exer10/Exer10_get.php">Exercice 10 : Réponse Formulaire GET</a></li>
+        <li><a href="Exer10/Exer10_post.php">Exercice 10 : Réponse Formulaire POST</a></li>
     </ul>
 </body>
 </html>
